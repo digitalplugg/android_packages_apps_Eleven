@@ -1,0 +1,28 @@
+{
+  "ProjectName": "swurvradio Native",
+  "ProjectGuid": "77ec2e0d-c422-4cc9-9520-6850b225e101",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.swurvradioNative",
+  "DisplayName": "swurvradio Native",
+  "Author": "",
+  "Description": "swurvradio Native",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.2.3",
+  "Framework": "NativeScript"
+}
